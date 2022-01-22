@@ -1,7 +1,7 @@
  # <div align="center"> Hi there 👋 , I'm Peter </div>
 
 * 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
-* 📫 How to reach me: vx : Peter060800 / ![微信二维码](https://user-images.githubusercontent.com/16064988/150637696-a5d3d730-83ee-4fbe-9c56-6bd420bec44c.jpg)
+* 📫 How to reach me: vx : Peter060800 / westcircle0608@gmail.com
 
 <!--
 **WestCircle68/WestCircle68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
