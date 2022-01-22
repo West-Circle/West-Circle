@@ -1,4 +1,4 @@
- # ->Hi there 👋 , I'm Peter <-
+ <div align="center"> # Hi there 👋 , I'm Peter </div>
 
 - 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
 <!--
