@@ -1,6 +1,6 @@
  # <div align="center"> Hi there 👋 , I'm Peter </div>
 
-- 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
+* 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
 <!--
 **WestCircle68/WestCircle68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
