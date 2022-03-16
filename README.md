@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![West-Circle's GitHub stats](https://github-readme-stats.vercel.app/api?username=West-Circle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WestCircle&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=West-Circle&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Circle&layout=compact&hide=html,css&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
