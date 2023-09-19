@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peter&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Circle&layout=compact&hide=html,css&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
