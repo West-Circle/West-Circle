@@ -1,7 +1,7 @@
  # <div align="center"> Hi there 👋 , I'm Peter </div>
 
 * 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
-* 📫 How to reach me: __wechat__ : _Peter060800_ / __mail__ : _westcircle0608@gmail.com_
+* 📫 How to reach me: __wechat__ : _Peter060800_ / __mail__ : _yuan_0006@hotmail.com_
 * My Blog https://west-circle.github.io/ (Not Working)
 
 <!--
