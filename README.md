@@ -1,6 +1,6 @@
  # <div align="center"> Hi there 👋 , I'm Peter </div>
 
-* 🌱 I’m currently studying __Software Engineering__ in __Zhejiang University__
+* 🌱 I’m a fresh graduate from __Zhejiang University__, major in __Software Engineering__.
 * 📫 How to reach me: __wechat__ : _Peter060800_ / __mail__ : _yuan_0006@hotmail.com_
 * My Blog https://west-circle.github.io/ (Not Working)
 * Graduation Project: [Link](https://github.com/West-Circle/GraduationProject)
