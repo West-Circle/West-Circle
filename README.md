@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Circle&layout=compact&hide=html,css&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Visitors Count: ![](https://api.visitorbadge.io/api/VisitorHit?user=West-Circle&repo=GraduationProject&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=West-Circle&repo=GraduationProject&countColor=%237B1E7A)
