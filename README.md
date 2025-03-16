@@ -1,11 +1,11 @@
  # <div align="center"> Hi there 👋 , I'm Peter </div>
 
-* 🌱 I graduated from __Zhejiang University__, major in __Software Engineering__.
+* 🌱 I graduated from __Zhejiang University__, bachelor degree in engineer, major in __Software Engineering__.
 * ⌨ Working Experience: 2023-12-18 - Current
 * 📫 How to reach me: __wechat__ : _Peter060800_ / __mail__ : _yuan_0006@hotmail.com_
 * My Blog https://west-circle.github.io/ (Not Working)
 * Graduation Project: [Link](https://github.com/West-Circle/GraduationProject)
-* Can you buy me a coffee?😍 ☕https://www.buymeacoffee.com/westify
+* Can you buy me a coffee?😍 USDT Address (BSC): 0x6042e3809616dc2aba70ea9380b59d103c9e04f4
 <!--
 **WestCircle68/WestCircle68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
